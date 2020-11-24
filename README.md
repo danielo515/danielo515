@@ -17,4 +17,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielo515&show_icons=true&locale=en&layout=compact" alt="danielo515" /></p>
 
-![NAME github stats](https://github-readme-stats.vercel.app/apiusername=danielo515&show_icons=true&theme=radical) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielo515)](https://github.com/anuraghazra/github-readme-stats)
+
